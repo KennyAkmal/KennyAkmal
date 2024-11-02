@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Jetpack Compose, Mobile Apps, Web, or anything else**
 
-- 📫 How to reach me **rakenz@gmail.com**
+- 📫 How to reach me **snowzly404@gmail.com**
 ###
 
 
