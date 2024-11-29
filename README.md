@@ -1,7 +1,7 @@
-<h1>Hello, welcome to my profile 👋</h1>
+<h1>Hello, I'm Kenny Akmal 👋</h1>
 
 ###
-<h3>I am a junior frontend and mobile developer from Indonesia</h3>
+<h3>A junior frontend and mobile developer, from Indonesia</h3>
 
 - 🌱 I’m currently learning **Kotlin, ReactJS, Java**
 
