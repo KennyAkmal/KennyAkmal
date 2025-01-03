@@ -1,13 +1,13 @@
 <h1>Hello, I'm Kenny Akmal 👋</h1>
 
 ###
-<h3>A junior frontend and mobile developer, from Indonesia</h3>
+<h3>I'm a junior frontend and mobile developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Kotlin, ReactJS, Java**
+- 🌱 I’m currently learning **Kotlin and Python**
 
-- 👯 I’m looking to collaborate on **Mobile Apps**
+- 👯 I’m looking to collaborate on **Mobile Apps and Machine Learning, AI, and Web3**
 
-- 💬 Ask me about **Jetpack Compose, Mobile Apps, Web, or anything else**
+- 💬 Ask me about **Jetpack Compose, Mobile Apps, Web3, Machine Learning, AI or anything else**
 
 - 📫 How to reach me **snowzly404@gmail.com**
 ###
